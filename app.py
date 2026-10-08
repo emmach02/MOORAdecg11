@@ -52,7 +52,14 @@ def sidebar_summary() -> None:
                 "Herramienta de apoyo a la decisión multicriterio basada en **MOORA** "
                 "(Brauers y Zavadskas, 2006): Sistema de Razones (compensatorio) y Punto de Referencia "
                 "con métrica min-max de Tchebycheff (no compensatorio).\n\n"
-                "Decisiones en Escenarios Complejos — Trabajo Práctico."
+                "**Decisiones en Escenarios Complejos - Trabajo Práctico Integrador**\n\n"
+                "**Grupo 11:**\n\n"
+                "**Integrantes:**\n"
+                "- Aquere, Agustín - 86972\n"
+                "- Cardozo, Abril Agustina - 95275\n"
+                "- Chaile, Emmanuel Ricardo - 89767\n"
+                "- Gomez Toledo, Juan Cruz - 87135\n"
+                "- Tarifa Bustos, Angela - 94599"
             )
 
 
